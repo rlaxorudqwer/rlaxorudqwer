@@ -1,8 +1,8 @@
-<h1 align="center">Kim Tae-Kyung's Self-Introduction Letter</h1>
+<h1 align="center">Kim Tae-Kyung's Self-Introduction </h1>
 <h3 align="center">Cloud engineers constantly Challenging and Evolving</h3>
 
 
-- 🌱 Academic ability : **** 
+- 🌱 Academic ability : **Myoungji College Graduation** 
 - 📫 Email : **ktk6928@naver.com**
 
 <h3 align="left">Training History</h3>
