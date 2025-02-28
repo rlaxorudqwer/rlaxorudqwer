@@ -32,7 +32,7 @@
 |**Driver License Class2**|Incheon Metropolitan Police Agency|2020.08.18|
 
 <h3 align="left">Project</h3>
- <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/2%EC%A1%B0_AWS%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_BSFAN.pdf" target="_blank"> Public Cloud Configuration with aws </a>
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/2%EC%A1%B0_AWS%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_BSFAN.pdf" target="_blank">Public Cloud Configuration with aws </a>
 
  <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/AWS%20EKS%20PROJECT_2%EC%A1%B0(BSFAN).pdf" target="_blank">Creating Clusters and Configuring NLB&ALB with EKS </a>
 
