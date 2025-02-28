@@ -31,3 +31,15 @@
 |**Computer Specialist in Spreadsheet & Database Level-1**|Korea Chamber of Commerce and Industry|2022.12.16|
 |**Driver License Class2**|Incheon Metropolitan Police Agency|2020.08.18|
 
+<h3 align="left">Project</h3>
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/2%EC%A1%B0_AWS%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_BSFAN.pdf" target="_blank"> Public Cloud Configuration with aws </a>
+
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/AWS%20EKS%20PROJECT_2%EC%A1%B0(BSFAN).pdf" target="_blank">Creating Clusters and Configuring NLB&ALB with EKS </a>
+
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/BSFAN(2%EC%A1%B0)_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf" target="_blank">Network Configuration Using CISCO Routers and Switches </a>
+
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/BSFAN_vSphere%20%EA%B0%80%EC%83%81%ED%99%94.pdf" target="_blank">Using vSphere Implementing a Virtualized Server</a>
+
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/Rocky9-project.pdf" target="_blank">Implementing a Server with Rocky Linux </a>
+
+ <a href="https://github.com/rlaxorudqwer/rlaxorudqwer/blob/main/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_2%EC%A1%B0(BSFAN)%20(1).pdf" target="_blank">It's made of Kubernetes Preparing for the CKA Examination </a>
